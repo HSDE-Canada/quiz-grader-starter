@@ -1,0 +1,13 @@
+{
+  "name": "quiz-grader-server",
+  "version": "1.0.0",
+  "description": "Starter server for the Week 5 Quiz Grader project.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
